@@ -1,6 +1,5 @@
 <h1>Hello,my name is kenron, an <a href="https://linkedin.com/in/kenron-robinson">IT Professional</a>☺</h1>
 
-<h1>This is not finished yet in case anyone comes to my profile.  </h1>
 
 <h2> Information Technology Projects:</h2>
 
