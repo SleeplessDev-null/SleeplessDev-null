@@ -8,7 +8,9 @@
   - [Microsoft Azure Virtual Machines/Compute, and Networking](https://github.com/SleeplessDev-null/azure-network-protocols)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/SleeplessDev-null/osticket-prereqs)
+   - [osTicket: Prerequisites and Installation](https://github.com/SleeplessDev-null/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/SleeplessDev-null/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/SleeplessDev-null/ticket-lifecycle)
  
 - <b>Active Directory</b>
   - [Active Directory Deployment and Configuration ](https://github.com/SleeplessDev-null/configure-ad)
